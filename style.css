@@ -1,0 +1,16 @@
+ body {
+    background-color: rgb(236, 205, 205);
+ }
+ p{
+    color:rgb(255, 38, 0);
+}
+h1{
+    color:rgb(255, 0, 0);
+}
+p{
+    font-size: 45px;
+}
+img {
+    border: 10px dotted rgb(233, 13, 13);
+     
+}
